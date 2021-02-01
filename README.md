@@ -1,5 +1,6 @@
 # daryHeap
 d-ary heap and linked list implementations in java.
+** d-ary heap stands for a heap, but on a given d base, and not just binary base.
 
 ## Linked list functions:
 * linkedlist - Creates a new empty list, with only head node.
